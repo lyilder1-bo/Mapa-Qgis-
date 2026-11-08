@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "mapa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"Estación":"E1","Este (m)":1089445,"Norte (m)":1120720,"PM10":12,"PM2.5":5,"Temperatura (°C)":24,"Cont A (ppm)":24,"Cont B (ppm)":16},"geometry":{"type":"Point","coordinates":[1089445.0,1120720.0]}},
+{"type":"Feature","properties":{"Estación":"E2","Este (m)":1091001,"Norte (m)":1120893,"PM10":44,"PM2.5":40,"Temperatura (°C)":26,"Cont A (ppm)":52,"Cont B (ppm)":48},"geometry":{"type":"Point","coordinates":[1091001.0,1120893.0]}},
+{"type":"Feature","properties":{"Estación":"E3","Este (m)":1092026,"Norte (m)":1120523,"PM10":32,"PM2.5":30,"Temperatura (°C)":25,"Cont A (ppm)":44,"Cont B (ppm)":40},"geometry":{"type":"Point","coordinates":[1092026.0,1120523.0]}},
+{"type":"Feature","properties":{"Estación":"E4","Este (m)":1089487,"Norte (m)":1119791,"PM10":60,"PM2.5":50,"Temperatura (°C)":27,"Cont A (ppm)":72,"Cont B (ppm)":64},"geometry":{"type":"Point","coordinates":[1089487.0,1119791.0]}},
+{"type":"Feature","properties":{"Estación":"E5","Este (m)":1090506,"Norte (m)":1119788,"PM10":114,"PM2.5":100,"Temperatura (°C)":33,"Cont A (ppm)":124,"Cont B (ppm)":118},"geometry":{"type":"Point","coordinates":[1090506.0,1119788.0]}},
+{"type":"Feature","properties":{"Estación":"E6","Este (m)":1091495,"Norte (m)":1119962,"PM10":72,"PM2.5":60,"Temperatura (°C)":28,"Cont A (ppm)":84,"Cont B (ppm)":72},"geometry":{"type":"Point","coordinates":[1091495.0,1119962.0]}},
+{"type":"Feature","properties":{"Estación":"E7","Este (m)":1089526,"Norte (m)":1118907,"PM10":84,"PM2.5":70,"Temperatura (°C)":30,"Cont A (ppm)":92,"Cont B (ppm)":88},"geometry":{"type":"Point","coordinates":[1089526.0,1118907.0]}},
+{"type":"Feature","properties":{"Estación":"E8","Este (m)":1090681,"Norte (m)":1119117,"PM10":86,"PM2.5":80,"Temperatura (°C)":32,"Cont A (ppm)":102,"Cont B (ppm)":96},"geometry":{"type":"Point","coordinates":[1090681.0,1119117.0]}},
+{"type":"Feature","properties":{"Estación":"E9","Este (m)":1092166,"Norte (m)":1118883,"PM10":36,"PM2.5":30,"Temperatura (°C)":26,"Cont A (ppm)":52,"Cont B (ppm)":48},"geometry":{"type":"Point","coordinates":[1092166.0,1118883.0]}}
+]
+}
